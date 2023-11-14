@@ -1,5 +1,7 @@
 # Video-Generation
 
+BEFORE YOU READ: THIS IS A WORK IN PROGRESS REPLACEMENT OF AUTOTUBE!
+
 TL;DR: Automatic video generation using Web Scraping, AI TTS & Python Video Processing packages. Intended for use by my YouTube Shorts channel: https://www.youtube.com/@godsofmortality/featured
 
 Summary:
